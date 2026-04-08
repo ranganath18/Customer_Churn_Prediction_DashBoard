@@ -3,6 +3,9 @@
 An end-to-end machine learning application that predicts customer churn risk and provides actionable insights through an interactive dashboard.
 
 ---
+## 🔗 Live Demo
+
+🚀 Live App: [Click here](https://customerchurnpredictiondashboard-xqwkbxn35fwdiqvdw8uzwk.streamlit.app/)
 
 ## 🚀 Overview
 
