@@ -7,6 +7,8 @@ An end-to-end machine learning application that predicts customer churn risk and
 
 🚀 Live App: [Click here](https://customerchurnpredictiondashboard-xqwkbxn35fwdiqvdw8uzwk.streamlit.app/)
 
+##Upload the sample dataset in the Batch Prediction tab to see results instantly.
+
 ## 🚀 Overview
 
 Customer churn is a critical business problem where companies lose customers over time. This project builds a complete ML system to:
