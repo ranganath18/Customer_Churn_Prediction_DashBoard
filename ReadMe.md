@@ -149,14 +149,16 @@ streamlit run app/dashboard.py
 
 ## 👨‍💻 Author
 
-RR
+RANGANATH RANGAM
 
+* B.Tech in DATA SCIENCE (2025)
 * Interested in Machine Learning, Deep Learning, and Generative AI
 * Skilled in Python, Data Science, and building real-world AI applications
 * Focused on developing end-to-end intelligent systems
+  
 
-🔗 GitHub: https://github.com/YOUR_USERNAME
-🔗 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+🔗 GitHub: https://github.com/ranganath18/Customer_Churn_Prediction_DashBoard/
+🔗 LinkedIn: www.linkedin.com/in/ranganath-rangam-49a2a324a
 
 ---
 
