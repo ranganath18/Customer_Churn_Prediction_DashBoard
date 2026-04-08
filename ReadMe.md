@@ -7,7 +7,11 @@ An end-to-end machine learning application that predicts customer churn risk and
 
 🚀 Live App: [Click here](https://customerchurnpredictiondashboard-xqwkbxn35fwdiqvdw8uzwk.streamlit.app/)
 
-##Upload the sample dataset in the Batch Prediction tab to see results instantly.
+## 📊 Sample Data
+
+Download sample dataset to test the app:
+
+👉 [Download Sample Dataset](https://raw.githubusercontent.com/YOUR_USERNAME/churn-prediction-dashboard/main/data/sample_telco.csv)
 
 ## 🚀 Overview
 
